@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> 🕊️⃝‌ᴘʙx ʙᴏᴛ ❤️ᥫ᭡፝֟፝֟</b>
+  <b> TMR BOT❤️ᥫ᭡፝֟፝֟</b>
 </h1>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <h6 align="center">
-  <b> ⚠️ 𝐋ᴇɢᴇɴᴅᴀʀʏ 𝐏ʙxʙᴏᴛ ⚠️</b>
+  <b> ⚠️ Hacking TMR bot ⚠️</b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.with all bug fixed</b>
 </h3>
 
 ------
